@@ -1,4 +1,5 @@
 # Rlab
-## Laboratório de R
-Aqui encontrarão a resolução de exercícios na linguagem R. 
-Linguagem básica à avançada.
+
+R lab do segundo módulo do curso de maratona data science. 
+O segundo módulo é sobre fundamentos da linguagem R. 
+Desde códigos básicos até os avançados.
